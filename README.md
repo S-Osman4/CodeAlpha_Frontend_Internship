@@ -26,6 +26,7 @@ Within each task folder, you will find the following subfolders:
 
 - `src`: Contains the source code for the project.
 - `assets`: Includes any additional assets such as images or stylesheets.
+- `demo` : Contains an image of the project in full screen.
 
 ## Getting Started
 
