@@ -2,8 +2,7 @@
 
 This project is a web-based calculator inspired by a mobile phone interface, offering basic arithmetic functionalities with a sleek, modern design.
 
-[Demo Image]()
-[Demo Video]()
+![Demo Image](./demo/calculator.jpeg)
 
 ## Features
 
