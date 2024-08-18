@@ -18,6 +18,7 @@ This project is a responsive image gallery that allows users to view and navigat
 - **CSS3**: For styling, including custom styles for the gallery and captions.
 - **Bootstrap 5**: For responsive layout, modal functionality, and additional styling.
 - **JavaScript**: For handling the image slider functionality.
+- **demo/** : Directory containing demo image.
 
 
 ## Project Structure
