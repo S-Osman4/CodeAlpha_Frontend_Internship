@@ -2,9 +2,7 @@
 
 This project is a responsive image gallery that allows users to view and navigate through a collection of images. The gallery features a clean, modern design, using Bootstrap for layout and styling, and includes an interactive image slider. Each image in the gallery is accompanied by a caption and a link to the original source.
 
-[Demo Image]()
-
-[Demo Video]()
+![Demo Image](./demo/demo.jpeg)
 
 ## Features
 
