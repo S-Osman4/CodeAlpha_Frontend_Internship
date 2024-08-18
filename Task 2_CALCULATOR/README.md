@@ -23,7 +23,7 @@ This project is a web-based calculator inspired by a mobile phone interface, off
 - **index.html**: The main HTML file containing the structure of the calculator.
 - **styles.css**: Custom CSS styles for the calculator, buttons, and layout.
 - **src/script.js**: JavaScript file that manages the calculator's functionality and user interactions.
-- **demo/** : Directory containing demo img and video.
+- **demo/** : Directory containing demo image
 
 ## Credits
 
