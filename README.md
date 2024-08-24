@@ -10,9 +10,9 @@ This repository contains the completed tasks from my front-end development inter
 
 | Task          | Description                                                                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Image Gallery | Create an image gallery where users can view a collection of images. Use HTML/CSS for layout and JavaScript for image navigation and interactive features.                                                    |
-| Calculator    | Develop a basic calculator with arithmetic operations (addition, subtraction, multiplication, and division). Design a user interface with input buttons and a display screen using HTML, CSS, and JavaScript. |
-| Music Player  | Build a music player using JavaScript and CSS. Divide the project into three parts: HTML structure, CSS styling, and JavaScript functionality for audio, player buttons, and music information.               |
+| [Image Gallery](./Task%201_IMAGE%20GALLERY/) | Create an image gallery where users can view a collection of images. Use HTML/CSS for layout and JavaScript for image navigation and interactive features.                                                    |
+| [Calculator](./Task%202_CALCULATOR/)    | Develop a basic calculator with arithmetic operations (addition, subtraction, multiplication, and division). Design a user interface with input buttons and a display screen using HTML, CSS, and JavaScript. |
+| [Music Player](./Task%204_MUSIC%20PLAYER/)  | Build a music player using JavaScript and CSS. Divide the project into three parts: HTML structure, CSS styling, and JavaScript functionality for audio, player buttons, and music information.               |
 
 ## Repository Structure
 
